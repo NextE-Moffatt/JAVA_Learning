@@ -11,3 +11,16 @@
 jdk开发包 \ jre运行环境 \ jvm虚拟机 的关系
 3
 安装
+//单行注释
+/*多行注释
+
+
+多行注释*/
+
+/*区块注释*/
+
+public class FuckWorld{      //定义类
+     public static void main(String[] args){//定义方法，代表程序执行的七点
+	    System.out.println("fuck ,world!");//打印输出语句
+	 }
+}
