@@ -1,26 +1,4 @@
 # JAVA_Learning
-学习Java笔记
-1
-启动             win+r
-改变盘符      例如C：
-进入文件夹   cd+路径\路径\路径
-文件列表      dir
-清屏             cls
-退出             exit
-2
-jdk开发包 \ jre运行环境 \ jvm虚拟机 的关系
-3
-安装
-//单行注释
-/*多行注释
-
-
-多行注释*/
-
-/*区块注释*/
-
-public class FuckWorld{      //定义类
-     public static void main(String[] args){//定义方法，代表程序执行的七点
-	    System.out.println("fuck ,world!");//打印输出语句
-	 }
-}
+* 本仓库用来记录我的Java学习历程，我的编程之路十分艰辛，无人指导。走遍无数弯路，直到发现Java真香，或许以后我会掌握很多语言，但是，现在是我的起点。
+* 刚开始记录的一些Markdown文件，是在尝试熟悉这个编辑器，可能写的没有那么美观，不过能记录下来成长的轨迹就已经足够。
+* Hello CordingWorld！
