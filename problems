@@ -1,0 +1,1 @@
+* 在学习数据库连接池是配置的xml文件中的url的路径的时候需要添加characterEncoding=utf8&amp;useSSL=false才不会报错。
